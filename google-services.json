@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850306167553",
+    "project_id": "fir-calculator-9f61b",
+    "storage_bucket": "fir-calculator-9f61b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850306167553:android:e1f9ff989ba2d735572100",
+        "android_client_info": {
+          "package_name": "main.app.fire_calc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGgsKzlRgWbBp4s6TxTnD1tOZx8n07hlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
